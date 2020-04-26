@@ -8,6 +8,8 @@ This page contains a collection of links to free online resources for learning a
 
 - [ggplot2](https://ggplot2-book.org)
 - [R for Data Science](https://r4ds.had.co.nz)
+- [Advanced R](http://adv-r.had.co.nz)
+- [R Markdown](https://bookdown.org/yihui/rmarkdown/)
 
 ### Tutorials/Modules
 
@@ -25,3 +27,11 @@ This page contains a collection of links to free online resources for learning a
 
 - [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
 - [Biostatistics for Biomedical Research](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos?disable_polymer=1)
+
+### Tutorials/Modules
+
+- [Broadening Your Statistical Horizons](https://bookdown.org/roback/bookdown-bysh/)
+
+### Blogs
+
+- [Multilevel Modeling](http://methods.johndavidpoe.com/2016/07/15/this-blog/)
