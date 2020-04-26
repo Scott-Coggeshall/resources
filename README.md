@@ -10,6 +10,7 @@ This page contains a collection of links to free online resources for learning a
 - [R for Data Science](https://r4ds.had.co.nz)
 - [Advanced R](http://adv-r.had.co.nz)
 - [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+- [Parallel Computing for Data Science](http://www.hds.bme.hu/~fhegedus/00%20-%20Numerics/B2016%20Parallel%20computing%20for%20data%20science%20%20with%20examples%20in%20R,%20C++%20and%20CUDA.pdf)
 
 ### Tutorials/Modules
 
@@ -22,6 +23,7 @@ This page contains a collection of links to free online resources for learning a
 
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
 - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 
 ### Lecture Series
 
