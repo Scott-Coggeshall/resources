@@ -15,7 +15,7 @@ This page contains a collection of links to free online resources for learning a
 ### Tutorials/Modules
 
 - [Riffomanos](http://www.riffomonas.org)
-
+- [Tidy Tuesday Screencast](https://www.youtube.com/user/safe4democracy/playlists)
 
 ## Statistics
 
