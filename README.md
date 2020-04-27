@@ -25,6 +25,7 @@ This page contains a collection of links to free online resources for learning a
 - [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+- [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 ### Lecture Series
 
